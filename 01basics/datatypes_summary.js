@@ -1,4 +1,4 @@
-//  Primitive datatypes
+//  Primitive datatypes (stack)
 
 //  7 types : String, Number, Boolean, null, undefined, Symbol, BigInt       ,    changes in copy not in actual
 
@@ -18,7 +18,7 @@ console.log(id === anotherId);
 
 
 
-// Reference (Non primitive)
+// Reference (Non primitive) (heap)
 
 // Array, Objects, Functions      ,  make changes in value
 
